@@ -73,7 +73,7 @@ nav.navbar.navbar-default.navbar-fixed-top.top-nav-collapse {
 	padding: 1em;
 }
 .navbar-default .navbar-nav > li > a {
-    color: #fff;
+    color: #000;
     font-size: 1.1em;
     font-weight: 400;
     letter-spacing: 1px;
@@ -117,7 +117,7 @@ ul.dropdown-menu.agile_short_dropdown li a{
 	letter-spacing: 1px;
 }
 ul.dropdown-menu {
-    background: #31bdfd !important;
+    background: #9d9fa3 !important;
     box-shadow: 0 0 0;
     border: none;
     top: 3em;
@@ -2634,7 +2634,7 @@ ul.simplefilter {
 	}
 	.navbar-default .navbar-collapse, .navbar-default .navbar-form {
 		border-color: transparent !important;
-		background: rgba(0, 0, 0, 0.78);
+		background: rgba(220, 220, 220, 0.8);
 		width: 100%;
 	}
 	.navbar-right {
